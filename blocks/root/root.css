@@ -1,0 +1,13 @@
+:root {
+--color-black: #000000;
+--color-white: #ffffff;
+--color-gray: #1f1f1f;
+--color-light-gray: #f2f2f2;
+--color-accent: #2f80ed;
+
+}
+
+a:hover {
+    opacity: 0.6;
+    transition: 0.3s;
+}
