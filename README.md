@@ -1,3 +1,12 @@
-#ЛАБОРАТОРНАЯ РАБОТА №1. Проектная работа 2
+# Learning to learn
 
-2 часть верстки проекта "Научиться учиться" с применением структуры Nested БЭМ
+In this project, a one-page website is implemented with a breakdown of problems in learning approaches.  
+
+BEM methodology was used in the development process.
+
+---
+
+## Tech Stack:
+
+* HTML 
+* CSS
