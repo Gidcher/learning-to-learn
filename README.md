@@ -4,6 +4,8 @@ This project implements a one-page website for desktops with a problems breaks d
 
 BEM methodology was used in the development process.
 
+[GitHub Pages](https://gidcher.github.io/learning-to-learn/)
+
 ---
 
 ## Tech Stack:
