@@ -1,6 +1,6 @@
 # Learning to learn
 
-In this project, a one-page website is implemented with a breakdown of problems in learning approaches.  
+This project implements a one-page website for desktops with a problems breaks down of teaching approaches. 
 
 BEM methodology was used in the development process.
 
